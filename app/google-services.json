@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1014074268324",
+    "project_id": "planlt-47107",
+    "storage_bucket": "planlt-47107.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1014074268324:android:88df1ae1a90cbb13b0e431",
+        "android_client_info": {
+          "package_name": "com.example.PlanIt"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBzKUs5l4JQl7xaokOUvptOsF9HIFUkyE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1014074268324:android:e6c7dd6930c4d0efb0e431",
+        "android_client_info": {
+          "package_name": "com.tuempresa.PlanIt"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBzKUs5l4JQl7xaokOUvptOsF9HIFUkyE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
